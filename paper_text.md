@@ -1,3 +1,7 @@
+Software makes science better, but is it research? Arguments for a research agenda in scientific software work.
+
+Better software makes for better science, yet software work is questioned as scientific contribution. This is a clear tension in the lives of scientists writing and using software. In this presentation I describe different arguments made for why software work is research. I draw on interviews from empirical studies of scientific software work, discussions at workshops, as well as participation in peer review, promotion and tenure, and grant review panels. I present arguments that seem to work well, arguments that seem to work poorly, and sketch potential arguments rarely made. I hope to provoke discussion, reflection, and to encourage better writing about the contribution of scientific software work.
+
 # How to pursue a research agenda in building software for scientists.
 
 How to bring out the intellectual contribution of work that provides software that underlies science, or How to avoid being called "mere plumbing" or "trivial software development".
